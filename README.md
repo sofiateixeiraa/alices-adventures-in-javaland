@@ -1,4 +1,4 @@
-# JavaLand
+# JavaLand - Library Management Desktop App 
 
 
 We are committed to promoting the digitization of the world of libraries, facilitating their management and making reading and knowledge as accessible as possible.
