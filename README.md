@@ -1,5 +1,6 @@
 # JavaLand - Library Management Desktop App 
 
+* **What was used? Java, My SQL, Java Swing
 
 We are committed to promoting the digitization of the world of libraries, facilitating their management and making reading and knowledge as accessible as possible.
 ------------------------------------------------------------------
